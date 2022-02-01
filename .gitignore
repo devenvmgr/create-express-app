@@ -61,3 +61,5 @@ dist
 .webpack/
 
 
+# ignore commit message
+.gitcommit
